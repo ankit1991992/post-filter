@@ -1,0 +1,38 @@
+.pf-column-sidebar {
+	background: #bfdcea;
+	width: 28%;
+    padding-left: 10px;
+    float: left;
+}
+.pf_container {
+	width: 100% !important;
+    float: left;
+    max-width: 100% !important;
+}
+.pf_filter-post {
+    width: 70%;
+    float: left;
+    margin-left: 2%;
+}
+.pf-column-3 {
+	width: 32%;
+	display: inline-block;
+}
+.pf-column-3 h2{
+    font-size: 15px;
+}
+
+
+/* Loader CSS START */
+#pf_overlay {
+    width: 100%;
+    background: #333;
+    position: relative;
+    z-index: 99;
+    display: none;
+}
+
+#pf_overlay img.loading_circle {
+    position: absolute;
+    left: 32%;
+}

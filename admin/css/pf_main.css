@@ -1,0 +1,38 @@
+.pf_content {
+    width: 46%;
+    float: left;
+    padding-right: 48px;
+}
+.pf_content .select,.taxonomy_names{
+	width: 100%;
+}
+.shortcode_list {
+	width: 46%;
+	float: left;
+	margin-top: .5em;
+	background: #fff;
+	padding: 20px;
+	border-radius: 5px;
+	font-size: 14px;
+	font-weight: 600;
+	border:1px solid #ddd;
+}
+.pf_delete_shortcode{
+	text-decoration: none;
+	color:#cf4647;
+	outline: none;
+}
+.pf_copy_shortcode{
+	text-decoration: none;
+}
+
+.shortcode_list table {
+	width: 100%;
+	display: block;
+}
+.shortcode_list table tr {
+	width: 100%;
+	float: left;
+	margin-bottom: 10px;
+	display: block;
+}
