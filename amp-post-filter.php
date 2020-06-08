@@ -3,7 +3,7 @@
  * Plugin Name:       Custom Post Filter
  * Description:       Filter Post using post taxonomy.
  * Version:           1.0.0
- * Author:            ManekTech
+ * Author:            XcodeWeb
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
  */
